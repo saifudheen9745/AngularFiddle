@@ -1,0 +1,1 @@
+body{margin:0;padding:0}.main{width:100vw;height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center}.main p{font-size:40px;color:red}.main button{width:150px;height:50px;background-color:#8080806c;color:#000;border:none;border-radius:10px;cursor:pointer}.main button:hover{background-color:gray;color:#fff}
